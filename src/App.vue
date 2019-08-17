@@ -13,8 +13,8 @@
       </main>
       <footer class="navbar-default navbar-bottom navbar-dark bg-dark fixed-bottom">
         <div class="container-fluid">
-              <p class="text-center nav-bar mb-0">Checkout repository at <a href="" target="_blank">
-                Will be added Later
+              <p class="text-center nav-bar mb-0">Checkout repository at <a href="https://github.com/McTavish420/mobile-market" target="_blank">
+                https://github.com/McTavish420/mobile-market
               </a></p>
         </div>
       </footer>

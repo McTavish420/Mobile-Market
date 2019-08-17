@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.6171645729219c33a4c4aff0d9165bf9.js"
+  "/precache-manifest.7390aaff9407855d2c441c53c3df5aeb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mobile-market"});
