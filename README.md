@@ -1,12 +1,19 @@
-# mobile-market
+# Realtime Chatbox
 
 ## Project setup
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development (backend server)
 ```
+npm run dev
+```
+
+### Compiles and hot-reloads for development (frontend server)
+```
+cd frontend
+npm install
 npm run serve
 ```
 
